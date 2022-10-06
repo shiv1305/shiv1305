@@ -7,9 +7,8 @@
 </h3>
 <h2>:desktop_computer: Language</h2>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiv1305&show_icons=true&locale=en&layout=compact" alt="shiv1305" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiv1305&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="shiv1305" /></p>
+
 
 <h2>:thought_balloon: Quote of the day</h2>
 <details open>
