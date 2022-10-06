@@ -6,7 +6,10 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=00C647&center=true&width=435&height=100&lines=MASTER+IN+COMPUTER+APPLICATION+STUDENT;CRAVING+FOR+LEARNING" alt="Typing SVG" /></a>
 </h3>
 <h2>:desktop_computer: Language</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiv1305&show_icons=true&locale=en&layout=compact" alt="shiv1305" /></p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiv1305&show_icons=true&locale=en&layout=compact" alt="shiv1305" />
+</p>
 
 <h2>:thought_balloon: Quote of the day</h2>
 <details open>
