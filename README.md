@@ -1,3 +1,5 @@
+![coding gif](https://github.com/shiv1305/shiv1305/blob/main/coding%20exploration.gif)
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm shiv</h1>
 
 <h3 align="center">
