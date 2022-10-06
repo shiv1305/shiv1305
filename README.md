@@ -13,5 +13,6 @@
 
 - 📫 How to reach me **shivsankarmohanta54@gmail.com**
 
-
+##BRUH BE CAREFULL
+![snake gif](https://github.com/shiv1305/shiv1305/blob/output/github-contribution-grid-snake.gif)
 
