@@ -9,7 +9,8 @@
 
 <h2>:desktop_computer: Language</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiv1305&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="shiv1305" /></p>
+| <a href="https://github.com/shiv1305/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shiv1305&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shiv's github stats" /></a> | <a href="https://github.com/shiv1305/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv1305&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 <h2>:thought_balloon: Quote of the day</h2>
