@@ -1,5 +1,5 @@
 ![coding gif](https://github.com/shiv1305/shiv1305/blob/main/coding%20exploration.gif)
-<h1 align="center"></h1>
+##
 
 <h3 align="center">
 <p>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Shiv</p>
@@ -28,4 +28,10 @@
 
 ## BRUH BE CAREFULL
 ![snake gif](https://github.com/shiv1305/shiv1305/blob/output/github-contribution-grid-snake.svg)
+## 
+<h1 align="center">
+       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75ABF&center=true&vCenter=true&width=435&height=100&lines=THANK+YOU" alt="Typing SVG" /></a>
+
+</h1>
+
 
